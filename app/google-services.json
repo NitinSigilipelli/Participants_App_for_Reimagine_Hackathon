@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1022417006434",
+    "project_id": "reimagine-ecb30",
+    "storage_bucket": "reimagine-ecb30.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1022417006434:android:b028687be8885e8daf063b",
+        "android_client_info": {
+          "package_name": "com.example.reimagine"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5uNagDdWRbIj2-YgVV7UFksrHfcK6s6A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

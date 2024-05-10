@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home"
+        android:title="Home"
+        android:icon="@drawable/home"/>
+    <item
+        android:id="@+id/timeline"
+        android:title="Timeline"
+        android:icon="@drawable/timeline"/>
+    <item
+        android:id="@+id/about_hackathon"
+        android:title="About Hackathon"
+        android:icon="@drawable/festival_fill0_wght400_grad0_opsz48"/>
+
+
+
+</menu>
